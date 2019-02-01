@@ -1,0 +1,292 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    
+    font-family: 'Abel', sans-serif;
+}
+
+#menu{
+    box-shadow: 0px 1px #DFE3E8;
+    width: 1441px;
+
+}
+
+#cadecaus{
+    height: 42.72px;
+    width:220.24px;
+    margin-top: 15px;
+    margin-left: 33px;
+}
+
+#text{
+    float: right;
+    position: relative;
+    width: 159.49px;
+    height: 42.44;
+}
+
+#group2{
+    margin-top: 1px;
+    height: 46px;
+    width: 1441px;
+    background-color: #F6F9FC;
+    color: #6B7C93;
+    box-shadow: 0px 1px #E0E2E4;
+}
+
+#main{
+    height: 1360px;
+    width: 1441px ;
+    margin-top: 1px;
+}
+
+#filters{
+    height: 1360px;
+    width: 376px;
+    background-color: #F6F9FC;
+    box-shadow: 1px 1px #E0E2E4;
+    float: left;
+}
+
+#cards{
+    margin-left: 1px;
+    width: 1064px;
+    background-color: #F6F9FC;
+    height: 1360px;
+    float: right;
+}
+
+#footer{
+    height: 325px;
+    width: 1441px;
+    background-color: #F6F9FC;
+    box-shadow: 0px 1px #E0E2E4 inset;
+}
+
+#header{
+    margin-left:19px;
+    font-size: 43px;
+    width: 859px;
+    height: 94;
+}
+
+#sortbydiv{
+    float: right;
+    width: 145.08px;
+    height: 80.07px;
+    
+    font-size: 16px;
+}
+
+#sort{
+    width: 145.08px;
+    height: 80.07px;
+    fill: #ADADAD;
+    font-family: 'Abel', sans-serif;
+    line-height: 20px;
+    letter-spacing: 0px;
+    border: 1px solid #C4CDD5;
+
+}
+
+#follow{
+    width: 1005px;
+    height: 224px;
+    padding-left: 38px;
+    padding-top: 77px;
+}
+
+#about{
+    width: 384px;
+    height: 130px;
+}
+
+#logo2{
+    width: 220px;
+    height: 48px;
+}
+
+#features   {
+    width: 111px;
+    height: 154px;
+    top:1549px;
+    left: 524px; 
+    position: absolute;
+}
+
+#featureslist{
+    list-style-type: none;
+}
+
+#featureslist li{
+    margin-bottom: 5px;
+}
+
+#featureslist a{
+    text-decoration:none;
+    color:#6B7C93;
+    font-size: 14px;
+    
+}
+
+#company   {
+    width: 111px;
+    height: 154px;
+    top:1549px;
+    left: 736px; 
+    position: absolute;
+}
+
+#companylist{
+    list-style-type: none;
+}
+
+#company li{
+    margin-bottom: 5px;
+}
+
+#company a{
+    text-decoration:none;
+    color:#6B7C93;
+    font-size: 14px;
+    
+}
+
+#socials{
+    top:1584px;
+    left: 904px; 
+    position: absolute;
+}
+
+#locationbycity{
+    width: 317px;
+    height: 70px;
+    position: absolute;
+    top: 247px;
+    left:30px;
+}
+
+#zipcode{
+    width: 317px;
+    height: 70px;
+    position: absolute;
+    top: 337px;
+    left:30px;
+}
+
+#providerdiv{
+    width: 317px;
+    height: 70px;
+}
+
+#textfield{
+    width: 316px;
+    height: 46px;
+    font-size: 16px;
+    color:#ADADAD;
+    font-family: 'Abel', sans-serif;
+    border: 1px solid #C4CDD5;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 0px rgba(22, 29, 37, 0.05);
+    border-radius: 3px;
+}
+
+#textfield2{
+    color:#47495A;
+    width: 316px;
+    height: 46px;
+    font-size: 16px;
+    font-family: 'Abel', sans-serif;
+    border: 1px solid #C4CDD5;
+    box-sizing: border-box;
+    box-shadow: 0px 1px 0px rgba(22, 29, 37, 0.05);
+    border-radius: 3px;
+}
+
+#filtergroup{
+    width: 317px;
+    height: 464px;
+    position: absolute;
+    top: 427px;
+    left:30px;
+}
+
+#specialitydiv{
+    width: 317px;
+    height: 70px;
+    position: absolute;
+    top:125;
+}
+
+#group5{
+    position: absolute;
+    top: 155px;
+}
+
+
+#checkboxes1{
+    position: absolute;
+    top:185px;
+    color: #47495A;
+}
+
+#checkboxes2{
+    position: absolute;
+    top:300px;
+    color: #47495A;
+}
+
+#menulistdiv{
+    width: 565px;
+    height: 36px;
+    position: absolute;
+    left: 845px;
+    top: 17px;
+}
+
+#menulist{
+    list-style-type: none;
+}
+
+#menulist a{
+    text-decoration:none;
+    color:#6B7C93;
+    font-size: 12px;
+}
+
+#menulist li{
+    display: inline;
+    margin-right: 35px;
+    
+}
+
+.cards2{
+    width: 900px;
+    height: 195px;
+    background-color: #fff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.158543);
+    border-radius: 3px;
+}
+
+.btnclass{
+    background: #FFFFFF;
+border: 1px solid #C4CDD5;
+box-sizing: border-box;
+border-radius: 3px;
+width: 55px;
+height: 36px;
+color: #47495A;
+}
+
+.btnclass2{
+    background: #FFFFFF;
+border: 1px solid #C4CDD5;
+box-sizing: border-box;
+font-size: 13px;
+color:#47495A;
+width: 36px;
+height: 36px;
+}
